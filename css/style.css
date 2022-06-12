@@ -6,13 +6,16 @@
 .header {
     background-color: grey;
     text-align: center;
+    height: 15%;
 }
 .main {
     background-color: black;
     color: aquamarine;
     text-align: center;
+    height: 560px;
 }
 .footer {
     background-color: red;
     text-align: center;
+    height: 15%;
 }
