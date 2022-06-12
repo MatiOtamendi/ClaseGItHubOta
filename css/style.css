@@ -6,16 +6,19 @@
 .header {
     background-color: grey;
     text-align: center;
-    height: 15%;
+    height: 70px;
+    background-image: linear-gradient(to bottom, grey, black);
 }
 .main {
     background-color: black;
     color: aquamarine;
     text-align: center;
     height: 560px;
+    background-image: linear-gradient(to bottom, black 30%, red 70%);
 }
 .footer {
     background-color: red;
     text-align: center;
-    height: 15%;
+    height: 70px;
+    background-image: linear-gradient(to bottom, red, gray);
 }
